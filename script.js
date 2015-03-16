@@ -4,7 +4,6 @@ $(document).ready(function(){
     
     
 function changePicture(){
-
     if(counter >= 3){
         counter = 1;
     }
