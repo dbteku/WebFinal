@@ -47,7 +47,7 @@ $(document).ready(function () {
         setTimeout(function(){
         Vect[nrShown].style.opacity = "1";
         Vect[nrShown].style.visibility = "visible";
-        }, 1000);
+        }, 1200);
 
     }
 
