@@ -150,3 +150,6 @@ a {
     float: right;
     padding-right: 20px;
 }
+
+#question{padding-bottom:1px; margin-bottom:1px;}
+#answer{padding-top:1px; margin-top:1px;}
