@@ -1,7 +1,7 @@
 c = document.getElementById('canvas');
 ctx = c.getContext("2d");
 var image = new Image();
-image.src = "images/logo.png";
+image.src = "image/logo.png";
 var speed = 50;
 
 function drawBox(bx, by) {
