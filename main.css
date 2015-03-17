@@ -26,8 +26,9 @@
 
 .head {
     text-align: center;
+    align-content: center;
+    align-self: center;
     display: inline;
-    text-align: center;
     font-size: 72px;
     line-height: 1.0556;
     font-weight: 200;
@@ -161,15 +162,4 @@ a {
     font-family: Myriad;
     font-style: normal;
     text-decoration: none;
-}
-.clickProducts{
-    display:inline-block;
-}
-.clickProducts img{
-    height: 200px;
-    width: 200px;
-}
-.highlight{
-    opacity: 0.4;
-    filter: alpha(opacity=40);
 }
