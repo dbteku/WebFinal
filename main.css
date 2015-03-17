@@ -152,4 +152,18 @@ a {
 }
 
 #question{padding-bottom:1px; margin-bottom:1px;}
-#answer{padding-top:1px; margin-top:1px;}
+#answer{padding-top:0px; margin-top:0px;}
+.contact-content-holder{ display: inline-block;
+    background: none repeat scroll 0% 0% #FFF;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: -1px 0px 0px 0px #D2D2D2 inset, -1px 0px 0px 0px #E6E6E6 inset, 1px 0px 0px 0px #D2D2D2 inset, 1px 0px 0px 0px #E6E6E6, 0px -1px 0px 0px #E8E8E8, 0px 2px 0px 0px rgba(241, 241, 241, 0.3), 0px 1px 0px 0px #B1B1B1;
+    width: 1000px;
+    height: 150px;
+    min-width: 700px;
+    margin-bottom: 9px;
+    padding: 0;
+}
+.contactInfo{padding-bottom:0px;padding-top:0px;margin-top:0px;margin-bottom:0px;}
+.question{}
+.answer{}
